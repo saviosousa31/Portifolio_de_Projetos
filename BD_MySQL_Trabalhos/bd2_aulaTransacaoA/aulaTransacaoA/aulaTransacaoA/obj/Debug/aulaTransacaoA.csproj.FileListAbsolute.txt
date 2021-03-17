@@ -1,0 +1,17 @@
+D:\Fontes\csharp\bd2_aulaTransacaoA\aulaTransacaoA\aulaTransacaoA\bin\Debug\aulaTransacaoA.exe
+D:\Fontes\csharp\bd2_aulaTransacaoA\aulaTransacaoA\aulaTransacaoA\bin\Debug\aulaTransacaoA.pdb
+D:\Fontes\csharp\bd2_aulaTransacaoA\aulaTransacaoA\aulaTransacaoA\obj\Debug\aulaTransacaoA.csprojResolveAssemblyReference.cache
+D:\Fontes\csharp\bd2_aulaTransacaoA\aulaTransacaoA\aulaTransacaoA\obj\Debug\aulaTransacaoA.Form1.resources
+D:\Fontes\csharp\bd2_aulaTransacaoA\aulaTransacaoA\aulaTransacaoA\obj\Debug\aulaTransacaoA.Properties.Resources.resources
+D:\Fontes\csharp\bd2_aulaTransacaoA\aulaTransacaoA\aulaTransacaoA\obj\Debug\aulaTransacaoA.csproj.GenerateResource.Cache
+D:\Fontes\csharp\bd2_aulaTransacaoA\aulaTransacaoA\aulaTransacaoA\obj\Debug\aulaTransacaoA.exe
+D:\Fontes\csharp\bd2_aulaTransacaoA\aulaTransacaoA\aulaTransacaoA\obj\Debug\aulaTransacaoA.pdb
+C:\Users\ssoar\Desktop\bd2_aulaTransacaoA\aulaTransacaoA\aulaTransacaoA\bin\Debug\aulaTransacaoA.exe
+C:\Users\ssoar\Desktop\bd2_aulaTransacaoA\aulaTransacaoA\aulaTransacaoA\bin\Debug\aulaTransacaoA.pdb
+C:\Users\ssoar\Desktop\bd2_aulaTransacaoA\aulaTransacaoA\aulaTransacaoA\obj\Debug\aulaTransacaoA.csprojAssemblyReference.cache
+C:\Users\ssoar\Desktop\bd2_aulaTransacaoA\aulaTransacaoA\aulaTransacaoA\obj\Debug\aulaTransacaoA.Form1.resources
+C:\Users\ssoar\Desktop\bd2_aulaTransacaoA\aulaTransacaoA\aulaTransacaoA\obj\Debug\aulaTransacaoA.Properties.Resources.resources
+C:\Users\ssoar\Desktop\bd2_aulaTransacaoA\aulaTransacaoA\aulaTransacaoA\obj\Debug\aulaTransacaoA.csproj.GenerateResource.cache
+C:\Users\ssoar\Desktop\bd2_aulaTransacaoA\aulaTransacaoA\aulaTransacaoA\obj\Debug\aulaTransacaoA.csproj.CoreCompileInputs.cache
+C:\Users\ssoar\Desktop\bd2_aulaTransacaoA\aulaTransacaoA\aulaTransacaoA\obj\Debug\aulaTransacaoA.exe
+C:\Users\ssoar\Desktop\bd2_aulaTransacaoA\aulaTransacaoA\aulaTransacaoA\obj\Debug\aulaTransacaoA.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PLP1TrabalhoB_Sávio_PedroGodoy/1.0.0": {
+        "runtime": {
+          "PLP1TrabalhoB_Sávio_PedroGodoy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PLP1TrabalhoB_Sávio_PedroGodoy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

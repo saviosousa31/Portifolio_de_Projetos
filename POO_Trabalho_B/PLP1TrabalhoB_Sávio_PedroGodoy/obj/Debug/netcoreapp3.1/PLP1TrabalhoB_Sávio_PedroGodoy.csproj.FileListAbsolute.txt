@@ -1,0 +1,13 @@
+C:\Users\ssoar\OneDrive\Área de Trabalho\Faculdade\POO I - Vânia\PLP1TrabalhoB_Sávio_PedroGodoy\PLP1TrabalhoB_Sávio_PedroGodoy\bin\Debug\netcoreapp3.1\PLP1TrabalhoB_Sávio_PedroGodoy.exe
+C:\Users\ssoar\OneDrive\Área de Trabalho\Faculdade\POO I - Vânia\PLP1TrabalhoB_Sávio_PedroGodoy\PLP1TrabalhoB_Sávio_PedroGodoy\bin\Debug\netcoreapp3.1\PLP1TrabalhoB_Sávio_PedroGodoy.deps.json
+C:\Users\ssoar\OneDrive\Área de Trabalho\Faculdade\POO I - Vânia\PLP1TrabalhoB_Sávio_PedroGodoy\PLP1TrabalhoB_Sávio_PedroGodoy\bin\Debug\netcoreapp3.1\PLP1TrabalhoB_Sávio_PedroGodoy.runtimeconfig.json
+C:\Users\ssoar\OneDrive\Área de Trabalho\Faculdade\POO I - Vânia\PLP1TrabalhoB_Sávio_PedroGodoy\PLP1TrabalhoB_Sávio_PedroGodoy\bin\Debug\netcoreapp3.1\PLP1TrabalhoB_Sávio_PedroGodoy.runtimeconfig.dev.json
+C:\Users\ssoar\OneDrive\Área de Trabalho\Faculdade\POO I - Vânia\PLP1TrabalhoB_Sávio_PedroGodoy\PLP1TrabalhoB_Sávio_PedroGodoy\bin\Debug\netcoreapp3.1\PLP1TrabalhoB_Sávio_PedroGodoy.dll
+C:\Users\ssoar\OneDrive\Área de Trabalho\Faculdade\POO I - Vânia\PLP1TrabalhoB_Sávio_PedroGodoy\PLP1TrabalhoB_Sávio_PedroGodoy\bin\Debug\netcoreapp3.1\PLP1TrabalhoB_Sávio_PedroGodoy.pdb
+C:\Users\ssoar\OneDrive\Área de Trabalho\Faculdade\POO I - Vânia\PLP1TrabalhoB_Sávio_PedroGodoy\PLP1TrabalhoB_Sávio_PedroGodoy\obj\Debug\netcoreapp3.1\PLP1TrabalhoB_Sávio_PedroGodoy.AssemblyInfoInputs.cache
+C:\Users\ssoar\OneDrive\Área de Trabalho\Faculdade\POO I - Vânia\PLP1TrabalhoB_Sávio_PedroGodoy\PLP1TrabalhoB_Sávio_PedroGodoy\obj\Debug\netcoreapp3.1\PLP1TrabalhoB_Sávio_PedroGodoy.AssemblyInfo.cs
+C:\Users\ssoar\OneDrive\Área de Trabalho\Faculdade\POO I - Vânia\PLP1TrabalhoB_Sávio_PedroGodoy\PLP1TrabalhoB_Sávio_PedroGodoy\obj\Debug\netcoreapp3.1\PLP1TrabalhoB_Sávio_PedroGodoy.csproj.CoreCompileInputs.cache
+C:\Users\ssoar\OneDrive\Área de Trabalho\Faculdade\POO I - Vânia\PLP1TrabalhoB_Sávio_PedroGodoy\PLP1TrabalhoB_Sávio_PedroGodoy\obj\Debug\netcoreapp3.1\PLP1TrabalhoB_Sávio_PedroGodoy.dll
+C:\Users\ssoar\OneDrive\Área de Trabalho\Faculdade\POO I - Vânia\PLP1TrabalhoB_Sávio_PedroGodoy\PLP1TrabalhoB_Sávio_PedroGodoy\obj\Debug\netcoreapp3.1\PLP1TrabalhoB_Sávio_PedroGodoy.pdb
+C:\Users\ssoar\OneDrive\Área de Trabalho\Faculdade\POO I - Vânia\PLP1TrabalhoB_Sávio_PedroGodoy\PLP1TrabalhoB_Sávio_PedroGodoy\obj\Debug\netcoreapp3.1\PLP1TrabalhoB_Sávio_PedroGodoy.genruntimeconfig.cache
+C:\Users\ssoar\OneDrive\Área de Trabalho\Faculdade\POO I - Vânia\PLP1TrabalhoB_Sávio_PedroGodoy\PLP1TrabalhoB_Sávio_PedroGodoy\obj\Debug\netcoreapp3.1\PLP1TrabalhoB_Sávio_PedroGodoy.csprojAssemblyReference.cache

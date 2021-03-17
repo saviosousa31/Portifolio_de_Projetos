@@ -1,0 +1,16 @@
+D:\Fontes\csharp\trabalhoBD2\trabalhoBD2\trabalhoBD2\bin\Debug\trabalhoBD2.exe
+D:\Fontes\csharp\trabalhoBD2\trabalhoBD2\trabalhoBD2\bin\Debug\trabalhoBD2.pdb
+D:\Fontes\csharp\trabalhoBD2\trabalhoBD2\trabalhoBD2\obj\Debug\trabalhoBD2.Form1.resources
+D:\Fontes\csharp\trabalhoBD2\trabalhoBD2\trabalhoBD2\obj\Debug\trabalhoBD2.Properties.Resources.resources
+D:\Fontes\csharp\trabalhoBD2\trabalhoBD2\trabalhoBD2\obj\Debug\trabalhoBD2.csproj.GenerateResource.Cache
+D:\Fontes\csharp\trabalhoBD2\trabalhoBD2\trabalhoBD2\obj\Debug\trabalhoBD2.exe
+D:\Fontes\csharp\trabalhoBD2\trabalhoBD2\trabalhoBD2\obj\Debug\trabalhoBD2.pdb
+C:\Users\ssoar\Desktop\trabalho_pratico_bd2\trabalhoBD2_codigoFonte\trabalhoBD2\trabalhoBD2\bin\Debug\trabalhoBD2.exe
+C:\Users\ssoar\Desktop\trabalho_pratico_bd2\trabalhoBD2_codigoFonte\trabalhoBD2\trabalhoBD2\bin\Debug\trabalhoBD2.pdb
+C:\Users\ssoar\Desktop\trabalho_pratico_bd2\trabalhoBD2_codigoFonte\trabalhoBD2\trabalhoBD2\obj\Debug\trabalhoBD2.csprojAssemblyReference.cache
+C:\Users\ssoar\Desktop\trabalho_pratico_bd2\trabalhoBD2_codigoFonte\trabalhoBD2\trabalhoBD2\obj\Debug\trabalhoBD2.Form1.resources
+C:\Users\ssoar\Desktop\trabalho_pratico_bd2\trabalhoBD2_codigoFonte\trabalhoBD2\trabalhoBD2\obj\Debug\trabalhoBD2.Properties.Resources.resources
+C:\Users\ssoar\Desktop\trabalho_pratico_bd2\trabalhoBD2_codigoFonte\trabalhoBD2\trabalhoBD2\obj\Debug\trabalhoBD2.csproj.GenerateResource.cache
+C:\Users\ssoar\Desktop\trabalho_pratico_bd2\trabalhoBD2_codigoFonte\trabalhoBD2\trabalhoBD2\obj\Debug\trabalhoBD2.csproj.CoreCompileInputs.cache
+C:\Users\ssoar\Desktop\trabalho_pratico_bd2\trabalhoBD2_codigoFonte\trabalhoBD2\trabalhoBD2\obj\Debug\trabalhoBD2.exe
+C:\Users\ssoar\Desktop\trabalho_pratico_bd2\trabalhoBD2_codigoFonte\trabalhoBD2\trabalhoBD2\obj\Debug\trabalhoBD2.pdb

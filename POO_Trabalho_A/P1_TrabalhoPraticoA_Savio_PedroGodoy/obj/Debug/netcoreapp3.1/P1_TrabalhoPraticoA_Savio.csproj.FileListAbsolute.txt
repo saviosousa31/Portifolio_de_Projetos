@@ -1,0 +1,13 @@
+C:\Users\ssoar\OneDrive\Área de Trabalho\Faculdade\POO I - Vânia\P1_TrabalhoPraticoA_Savio\P1_TrabalhoPraticoA_Savio\bin\Debug\netcoreapp3.1\P1_TrabalhoPraticoA_Savio.exe
+C:\Users\ssoar\OneDrive\Área de Trabalho\Faculdade\POO I - Vânia\P1_TrabalhoPraticoA_Savio\P1_TrabalhoPraticoA_Savio\bin\Debug\netcoreapp3.1\P1_TrabalhoPraticoA_Savio.deps.json
+C:\Users\ssoar\OneDrive\Área de Trabalho\Faculdade\POO I - Vânia\P1_TrabalhoPraticoA_Savio\P1_TrabalhoPraticoA_Savio\bin\Debug\netcoreapp3.1\P1_TrabalhoPraticoA_Savio.runtimeconfig.json
+C:\Users\ssoar\OneDrive\Área de Trabalho\Faculdade\POO I - Vânia\P1_TrabalhoPraticoA_Savio\P1_TrabalhoPraticoA_Savio\bin\Debug\netcoreapp3.1\P1_TrabalhoPraticoA_Savio.runtimeconfig.dev.json
+C:\Users\ssoar\OneDrive\Área de Trabalho\Faculdade\POO I - Vânia\P1_TrabalhoPraticoA_Savio\P1_TrabalhoPraticoA_Savio\bin\Debug\netcoreapp3.1\P1_TrabalhoPraticoA_Savio.dll
+C:\Users\ssoar\OneDrive\Área de Trabalho\Faculdade\POO I - Vânia\P1_TrabalhoPraticoA_Savio\P1_TrabalhoPraticoA_Savio\bin\Debug\netcoreapp3.1\P1_TrabalhoPraticoA_Savio.pdb
+C:\Users\ssoar\OneDrive\Área de Trabalho\Faculdade\POO I - Vânia\P1_TrabalhoPraticoA_Savio\P1_TrabalhoPraticoA_Savio\obj\Debug\netcoreapp3.1\P1_TrabalhoPraticoA_Savio.csprojAssemblyReference.cache
+C:\Users\ssoar\OneDrive\Área de Trabalho\Faculdade\POO I - Vânia\P1_TrabalhoPraticoA_Savio\P1_TrabalhoPraticoA_Savio\obj\Debug\netcoreapp3.1\P1_TrabalhoPraticoA_Savio.AssemblyInfoInputs.cache
+C:\Users\ssoar\OneDrive\Área de Trabalho\Faculdade\POO I - Vânia\P1_TrabalhoPraticoA_Savio\P1_TrabalhoPraticoA_Savio\obj\Debug\netcoreapp3.1\P1_TrabalhoPraticoA_Savio.AssemblyInfo.cs
+C:\Users\ssoar\OneDrive\Área de Trabalho\Faculdade\POO I - Vânia\P1_TrabalhoPraticoA_Savio\P1_TrabalhoPraticoA_Savio\obj\Debug\netcoreapp3.1\P1_TrabalhoPraticoA_Savio.csproj.CoreCompileInputs.cache
+C:\Users\ssoar\OneDrive\Área de Trabalho\Faculdade\POO I - Vânia\P1_TrabalhoPraticoA_Savio\P1_TrabalhoPraticoA_Savio\obj\Debug\netcoreapp3.1\P1_TrabalhoPraticoA_Savio.dll
+C:\Users\ssoar\OneDrive\Área de Trabalho\Faculdade\POO I - Vânia\P1_TrabalhoPraticoA_Savio\P1_TrabalhoPraticoA_Savio\obj\Debug\netcoreapp3.1\P1_TrabalhoPraticoA_Savio.pdb
+C:\Users\ssoar\OneDrive\Área de Trabalho\Faculdade\POO I - Vânia\P1_TrabalhoPraticoA_Savio\P1_TrabalhoPraticoA_Savio\obj\Debug\netcoreapp3.1\P1_TrabalhoPraticoA_Savio.genruntimeconfig.cache

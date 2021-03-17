@@ -1,0 +1,13 @@
+C:\Users\ssoar\OneDrive\Área de Trabalho\Faculdade\POO I - Vânia\POO_Exercicio_1_Savio_Sousa\POO_Exercicio_1_Savio_Sousa\bin\Debug\netcoreapp3.1\POO_Exercicio_1_Savio_Sousa.exe
+C:\Users\ssoar\OneDrive\Área de Trabalho\Faculdade\POO I - Vânia\POO_Exercicio_1_Savio_Sousa\POO_Exercicio_1_Savio_Sousa\bin\Debug\netcoreapp3.1\POO_Exercicio_1_Savio_Sousa.deps.json
+C:\Users\ssoar\OneDrive\Área de Trabalho\Faculdade\POO I - Vânia\POO_Exercicio_1_Savio_Sousa\POO_Exercicio_1_Savio_Sousa\bin\Debug\netcoreapp3.1\POO_Exercicio_1_Savio_Sousa.runtimeconfig.json
+C:\Users\ssoar\OneDrive\Área de Trabalho\Faculdade\POO I - Vânia\POO_Exercicio_1_Savio_Sousa\POO_Exercicio_1_Savio_Sousa\bin\Debug\netcoreapp3.1\POO_Exercicio_1_Savio_Sousa.runtimeconfig.dev.json
+C:\Users\ssoar\OneDrive\Área de Trabalho\Faculdade\POO I - Vânia\POO_Exercicio_1_Savio_Sousa\POO_Exercicio_1_Savio_Sousa\bin\Debug\netcoreapp3.1\POO_Exercicio_1_Savio_Sousa.dll
+C:\Users\ssoar\OneDrive\Área de Trabalho\Faculdade\POO I - Vânia\POO_Exercicio_1_Savio_Sousa\POO_Exercicio_1_Savio_Sousa\bin\Debug\netcoreapp3.1\POO_Exercicio_1_Savio_Sousa.pdb
+C:\Users\ssoar\OneDrive\Área de Trabalho\Faculdade\POO I - Vânia\POO_Exercicio_1_Savio_Sousa\POO_Exercicio_1_Savio_Sousa\obj\Debug\netcoreapp3.1\POO_Exercicio_1_Savio_Sousa.csprojAssemblyReference.cache
+C:\Users\ssoar\OneDrive\Área de Trabalho\Faculdade\POO I - Vânia\POO_Exercicio_1_Savio_Sousa\POO_Exercicio_1_Savio_Sousa\obj\Debug\netcoreapp3.1\POO_Exercicio_1_Savio_Sousa.AssemblyInfoInputs.cache
+C:\Users\ssoar\OneDrive\Área de Trabalho\Faculdade\POO I - Vânia\POO_Exercicio_1_Savio_Sousa\POO_Exercicio_1_Savio_Sousa\obj\Debug\netcoreapp3.1\POO_Exercicio_1_Savio_Sousa.AssemblyInfo.cs
+C:\Users\ssoar\OneDrive\Área de Trabalho\Faculdade\POO I - Vânia\POO_Exercicio_1_Savio_Sousa\POO_Exercicio_1_Savio_Sousa\obj\Debug\netcoreapp3.1\POO_Exercicio_1_Savio_Sousa.csproj.CoreCompileInputs.cache
+C:\Users\ssoar\OneDrive\Área de Trabalho\Faculdade\POO I - Vânia\POO_Exercicio_1_Savio_Sousa\POO_Exercicio_1_Savio_Sousa\obj\Debug\netcoreapp3.1\POO_Exercicio_1_Savio_Sousa.dll
+C:\Users\ssoar\OneDrive\Área de Trabalho\Faculdade\POO I - Vânia\POO_Exercicio_1_Savio_Sousa\POO_Exercicio_1_Savio_Sousa\obj\Debug\netcoreapp3.1\POO_Exercicio_1_Savio_Sousa.pdb
+C:\Users\ssoar\OneDrive\Área de Trabalho\Faculdade\POO I - Vânia\POO_Exercicio_1_Savio_Sousa\POO_Exercicio_1_Savio_Sousa\obj\Debug\netcoreapp3.1\POO_Exercicio_1_Savio_Sousa.genruntimeconfig.cache

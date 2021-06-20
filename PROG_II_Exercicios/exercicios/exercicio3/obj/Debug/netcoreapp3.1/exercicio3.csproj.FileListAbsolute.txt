@@ -1,0 +1,15 @@
+C:\Users\ssoar\source\repos\exercicios\exercicio3\bin\Debug\netcoreapp3.1\exercicio3.exe
+C:\Users\ssoar\source\repos\exercicios\exercicio3\bin\Debug\netcoreapp3.1\exercicio3.deps.json
+C:\Users\ssoar\source\repos\exercicios\exercicio3\bin\Debug\netcoreapp3.1\exercicio3.runtimeconfig.json
+C:\Users\ssoar\source\repos\exercicios\exercicio3\bin\Debug\netcoreapp3.1\exercicio3.runtimeconfig.dev.json
+C:\Users\ssoar\source\repos\exercicios\exercicio3\bin\Debug\netcoreapp3.1\exercicio3.dll
+C:\Users\ssoar\source\repos\exercicios\exercicio3\bin\Debug\netcoreapp3.1\exercicio3.pdb
+C:\Users\ssoar\source\repos\exercicios\exercicio3\obj\Debug\netcoreapp3.1\exercicio3.csprojAssemblyReference.cache
+C:\Users\ssoar\source\repos\exercicios\exercicio3\obj\Debug\netcoreapp3.1\exercicio3.Form1.resources
+C:\Users\ssoar\source\repos\exercicios\exercicio3\obj\Debug\netcoreapp3.1\exercicio3.csproj.GenerateResource.cache
+C:\Users\ssoar\source\repos\exercicios\exercicio3\obj\Debug\netcoreapp3.1\exercicio3.AssemblyInfoInputs.cache
+C:\Users\ssoar\source\repos\exercicios\exercicio3\obj\Debug\netcoreapp3.1\exercicio3.AssemblyInfo.cs
+C:\Users\ssoar\source\repos\exercicios\exercicio3\obj\Debug\netcoreapp3.1\exercicio3.csproj.CoreCompileInputs.cache
+C:\Users\ssoar\source\repos\exercicios\exercicio3\obj\Debug\netcoreapp3.1\exercicio3.dll
+C:\Users\ssoar\source\repos\exercicios\exercicio3\obj\Debug\netcoreapp3.1\exercicio3.pdb
+C:\Users\ssoar\source\repos\exercicios\exercicio3\obj\Debug\netcoreapp3.1\exercicio3.genruntimeconfig.cache

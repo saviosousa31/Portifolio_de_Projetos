@@ -1,0 +1,19 @@
+C:\Users\ssoar\source\repos\exercicios\exercicios\bin\Debug\netcoreapp3.1\exercicios.exe
+C:\Users\ssoar\source\repos\exercicios\exercicios\bin\Debug\netcoreapp3.1\exercicios.deps.json
+C:\Users\ssoar\source\repos\exercicios\exercicios\bin\Debug\netcoreapp3.1\exercicios.runtimeconfig.json
+C:\Users\ssoar\source\repos\exercicios\exercicios\bin\Debug\netcoreapp3.1\exercicios.runtimeconfig.dev.json
+C:\Users\ssoar\source\repos\exercicios\exercicios\bin\Debug\netcoreapp3.1\exercicios.dll
+C:\Users\ssoar\source\repos\exercicios\exercicios\bin\Debug\netcoreapp3.1\exercicios.pdb
+C:\Users\ssoar\source\repos\exercicios\exercicios\obj\Debug\netcoreapp3.1\exercicios.csprojAssemblyReference.cache
+C:\Users\ssoar\source\repos\exercicios\exercicios\obj\Debug\netcoreapp3.1\exercicios.Form1.resources
+C:\Users\ssoar\source\repos\exercicios\exercicios\obj\Debug\netcoreapp3.1\exercicios.csproj.GenerateResource.cache
+C:\Users\ssoar\source\repos\exercicios\exercicios\obj\Debug\netcoreapp3.1\exercicios.AssemblyInfoInputs.cache
+C:\Users\ssoar\source\repos\exercicios\exercicios\obj\Debug\netcoreapp3.1\exercicios.AssemblyInfo.cs
+C:\Users\ssoar\source\repos\exercicios\exercicios\obj\Debug\netcoreapp3.1\exercicios.csproj.CoreCompileInputs.cache
+C:\Users\ssoar\source\repos\exercicios\exercicios\obj\Debug\netcoreapp3.1\exercicios.dll
+C:\Users\ssoar\source\repos\exercicios\exercicios\obj\Debug\netcoreapp3.1\exercicios.pdb
+C:\Users\ssoar\source\repos\exercicios\exercicios\obj\Debug\netcoreapp3.1\exercicios.genruntimeconfig.cache
+C:\Users\ssoar\source\repos\exercicios\exercicios\obj\Debug\netcoreapp3.1\exercicios.Form1 - Cópia (2).resources
+C:\Users\ssoar\source\repos\exercicios\exercicios\obj\Debug\netcoreapp3.1\exercicios.Form1 - Cópia - Cópia.resources
+C:\Users\ssoar\source\repos\exercicios\exercicios\obj\Debug\netcoreapp3.1\exercicios.Form1 - Cópia.resources
+C:\Users\ssoar\source\repos\exercicios\exercicios\obj\Debug\netcoreapp3.1\exercicios.Form2.resources

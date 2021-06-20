@@ -1,0 +1,15 @@
+C:\Users\ssoar\source\repos\Atividade 4 - Sávio Soares Sousa\Atividade 4 - Sávio Soares Sousa\bin\Debug\netcoreapp3.1\Atividade 4 - Sávio Soares Sousa.exe
+C:\Users\ssoar\source\repos\Atividade 4 - Sávio Soares Sousa\Atividade 4 - Sávio Soares Sousa\bin\Debug\netcoreapp3.1\Atividade 4 - Sávio Soares Sousa.deps.json
+C:\Users\ssoar\source\repos\Atividade 4 - Sávio Soares Sousa\Atividade 4 - Sávio Soares Sousa\bin\Debug\netcoreapp3.1\Atividade 4 - Sávio Soares Sousa.runtimeconfig.json
+C:\Users\ssoar\source\repos\Atividade 4 - Sávio Soares Sousa\Atividade 4 - Sávio Soares Sousa\bin\Debug\netcoreapp3.1\Atividade 4 - Sávio Soares Sousa.runtimeconfig.dev.json
+C:\Users\ssoar\source\repos\Atividade 4 - Sávio Soares Sousa\Atividade 4 - Sávio Soares Sousa\bin\Debug\netcoreapp3.1\Atividade 4 - Sávio Soares Sousa.dll
+C:\Users\ssoar\source\repos\Atividade 4 - Sávio Soares Sousa\Atividade 4 - Sávio Soares Sousa\bin\Debug\netcoreapp3.1\Atividade 4 - Sávio Soares Sousa.pdb
+C:\Users\ssoar\source\repos\Atividade 4 - Sávio Soares Sousa\Atividade 4 - Sávio Soares Sousa\obj\Debug\netcoreapp3.1\Atividade 4 - Sávio Soares Sousa.csprojAssemblyReference.cache
+C:\Users\ssoar\source\repos\Atividade 4 - Sávio Soares Sousa\Atividade 4 - Sávio Soares Sousa\obj\Debug\netcoreapp3.1\Atividade_4___Sávio_Soares_Sousa.Form1.resources
+C:\Users\ssoar\source\repos\Atividade 4 - Sávio Soares Sousa\Atividade 4 - Sávio Soares Sousa\obj\Debug\netcoreapp3.1\Atividade 4 - Sávio Soares Sousa.csproj.GenerateResource.cache
+C:\Users\ssoar\source\repos\Atividade 4 - Sávio Soares Sousa\Atividade 4 - Sávio Soares Sousa\obj\Debug\netcoreapp3.1\Atividade 4 - Sávio Soares Sousa.AssemblyInfoInputs.cache
+C:\Users\ssoar\source\repos\Atividade 4 - Sávio Soares Sousa\Atividade 4 - Sávio Soares Sousa\obj\Debug\netcoreapp3.1\Atividade 4 - Sávio Soares Sousa.AssemblyInfo.cs
+C:\Users\ssoar\source\repos\Atividade 4 - Sávio Soares Sousa\Atividade 4 - Sávio Soares Sousa\obj\Debug\netcoreapp3.1\Atividade 4 - Sávio Soares Sousa.csproj.CoreCompileInputs.cache
+C:\Users\ssoar\source\repos\Atividade 4 - Sávio Soares Sousa\Atividade 4 - Sávio Soares Sousa\obj\Debug\netcoreapp3.1\Atividade 4 - Sávio Soares Sousa.dll
+C:\Users\ssoar\source\repos\Atividade 4 - Sávio Soares Sousa\Atividade 4 - Sávio Soares Sousa\obj\Debug\netcoreapp3.1\Atividade 4 - Sávio Soares Sousa.pdb
+C:\Users\ssoar\source\repos\Atividade 4 - Sávio Soares Sousa\Atividade 4 - Sávio Soares Sousa\obj\Debug\netcoreapp3.1\Atividade 4 - Sávio Soares Sousa.genruntimeconfig.cache

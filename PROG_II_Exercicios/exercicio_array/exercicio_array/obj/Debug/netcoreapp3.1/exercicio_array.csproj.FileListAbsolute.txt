@@ -1,0 +1,15 @@
+C:\Users\ssoar\source\repos\exercicio_array\exercicio_array\bin\Debug\netcoreapp3.1\exercicio_array.exe
+C:\Users\ssoar\source\repos\exercicio_array\exercicio_array\bin\Debug\netcoreapp3.1\exercicio_array.deps.json
+C:\Users\ssoar\source\repos\exercicio_array\exercicio_array\bin\Debug\netcoreapp3.1\exercicio_array.runtimeconfig.json
+C:\Users\ssoar\source\repos\exercicio_array\exercicio_array\bin\Debug\netcoreapp3.1\exercicio_array.runtimeconfig.dev.json
+C:\Users\ssoar\source\repos\exercicio_array\exercicio_array\bin\Debug\netcoreapp3.1\exercicio_array.dll
+C:\Users\ssoar\source\repos\exercicio_array\exercicio_array\bin\Debug\netcoreapp3.1\exercicio_array.pdb
+C:\Users\ssoar\source\repos\exercicio_array\exercicio_array\obj\Debug\netcoreapp3.1\exercicio_array.csprojAssemblyReference.cache
+C:\Users\ssoar\source\repos\exercicio_array\exercicio_array\obj\Debug\netcoreapp3.1\exercicio_array.Form1.resources
+C:\Users\ssoar\source\repos\exercicio_array\exercicio_array\obj\Debug\netcoreapp3.1\exercicio_array.csproj.GenerateResource.cache
+C:\Users\ssoar\source\repos\exercicio_array\exercicio_array\obj\Debug\netcoreapp3.1\exercicio_array.AssemblyInfoInputs.cache
+C:\Users\ssoar\source\repos\exercicio_array\exercicio_array\obj\Debug\netcoreapp3.1\exercicio_array.AssemblyInfo.cs
+C:\Users\ssoar\source\repos\exercicio_array\exercicio_array\obj\Debug\netcoreapp3.1\exercicio_array.csproj.CoreCompileInputs.cache
+C:\Users\ssoar\source\repos\exercicio_array\exercicio_array\obj\Debug\netcoreapp3.1\exercicio_array.dll
+C:\Users\ssoar\source\repos\exercicio_array\exercicio_array\obj\Debug\netcoreapp3.1\exercicio_array.pdb
+C:\Users\ssoar\source\repos\exercicio_array\exercicio_array\obj\Debug\netcoreapp3.1\exercicio_array.genruntimeconfig.cache

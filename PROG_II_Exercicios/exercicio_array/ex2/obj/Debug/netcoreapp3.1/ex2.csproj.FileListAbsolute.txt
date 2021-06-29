@@ -1,0 +1,15 @@
+C:\Users\ssoar\source\repos\exercicio_array\ex2\bin\Debug\netcoreapp3.1\ex2.exe
+C:\Users\ssoar\source\repos\exercicio_array\ex2\bin\Debug\netcoreapp3.1\ex2.deps.json
+C:\Users\ssoar\source\repos\exercicio_array\ex2\bin\Debug\netcoreapp3.1\ex2.runtimeconfig.json
+C:\Users\ssoar\source\repos\exercicio_array\ex2\bin\Debug\netcoreapp3.1\ex2.runtimeconfig.dev.json
+C:\Users\ssoar\source\repos\exercicio_array\ex2\bin\Debug\netcoreapp3.1\ex2.dll
+C:\Users\ssoar\source\repos\exercicio_array\ex2\bin\Debug\netcoreapp3.1\ex2.pdb
+C:\Users\ssoar\source\repos\exercicio_array\ex2\obj\Debug\netcoreapp3.1\ex2.csprojAssemblyReference.cache
+C:\Users\ssoar\source\repos\exercicio_array\ex2\obj\Debug\netcoreapp3.1\ex2.ex2.resources
+C:\Users\ssoar\source\repos\exercicio_array\ex2\obj\Debug\netcoreapp3.1\ex2.csproj.GenerateResource.cache
+C:\Users\ssoar\source\repos\exercicio_array\ex2\obj\Debug\netcoreapp3.1\ex2.AssemblyInfoInputs.cache
+C:\Users\ssoar\source\repos\exercicio_array\ex2\obj\Debug\netcoreapp3.1\ex2.AssemblyInfo.cs
+C:\Users\ssoar\source\repos\exercicio_array\ex2\obj\Debug\netcoreapp3.1\ex2.csproj.CoreCompileInputs.cache
+C:\Users\ssoar\source\repos\exercicio_array\ex2\obj\Debug\netcoreapp3.1\ex2.dll
+C:\Users\ssoar\source\repos\exercicio_array\ex2\obj\Debug\netcoreapp3.1\ex2.pdb
+C:\Users\ssoar\source\repos\exercicio_array\ex2\obj\Debug\netcoreapp3.1\ex2.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EscalonamentoCPU - SO", "EscalonamentoCPU - SO\EscalonamentoCPU - SO.csproj", "{CA950895-03A0-414A-A6E9-0C9B8C424C17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA950895-03A0-414A-A6E9-0C9B8C424C17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA950895-03A0-414A-A6E9-0C9B8C424C17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA950895-03A0-414A-A6E9-0C9B8C424C17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA950895-03A0-414A-A6E9-0C9B8C424C17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83605CC4-A580-48A5-A8B6-4E59D9531125}
+	EndGlobalSection
+EndGlobal
